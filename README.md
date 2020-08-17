@@ -3,7 +3,7 @@
 # Technology used
 Python, RPI.GPIO, smtp.lib, pigpio, urllib 
 
-Raspberry Pi 3, Ultrasonic Sensor, Water flow sensor (Hall efect sensor) 
+Raspberry Pi 3, Ultrasonic Sensor, Water flow sensor (Hall effect sensor) 
 
 ThingSpeak
 
